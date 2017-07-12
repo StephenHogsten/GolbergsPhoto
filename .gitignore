@@ -1,0 +1,7 @@
+*.pyc
+*.pyo
+flask
+env
+.vscode/
+os
+unittest
