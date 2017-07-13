@@ -1,3 +1,3 @@
-[LOGO]: https://travis-ci.org/StephenHogsten/GolbergsPhoto.svg?branch=master "Build Status"
+![Build Status](https://api.travis-ci.org/StephenHogsten/GolbergsPhoto.svg?branch=master)
 
 # Basic Flask Challenge
