@@ -19,7 +19,6 @@ class TestCase(unittest.TestCase):
         ))
         assert result.status_code == 200
         assert result.data == test_file
-        assert 2 == 0
 
 if __name__ == '__main__':
     unittest.main()
