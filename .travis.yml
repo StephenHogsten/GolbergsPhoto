@@ -7,3 +7,4 @@ script: python tests.py
 deploy:
   provider: heroku
   api_key: $API_KEY
+  app: goldbergsphoto
