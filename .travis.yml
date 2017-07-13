@@ -4,3 +4,5 @@ language: python
 # install dependencies -- my set-up covered by default
 # install: "pip install -r requirements.txt"
 script: python tests.py
+deploy:
+  provider: heroku
